@@ -1,0 +1,49 @@
+﻿Subject ID, Infancy Vaccine, Biological Sex, Ethnicity, Race, Age,Dataset,Specimen ID,Day_Rel_Boost,MonocytesT,Classical Monocytes
+119,aP,Female,Not Hispanic or Latino,White,26,2023_dataset,997,0,1.054421769,0.715555556
+120,wP,Female,Hispanic or Latino,Unknown or Not Reported,29,2023_dataset,1049,0,0.439766082,0.406015038
+121,aP,Female,Not Hispanic or Latino,Asian,24,2023_dataset,1078,0,0.65497076,0.731578947
+122,aP,Female,Hispanic or Latino,More Than One Race,25,2023_dataset,1089,0,0.988304094,0.947368421
+123,wP,Female,Hispanic or Latino,More Than One Race,28,2023_dataset,1018,0,1.561403509,1.563909774
+124,aP,Male,Hispanic or Latino,Unknown or Not Reported,24,2023_dataset,1108,0,0.730994152,0.64887218
+125,wP,Male,Hispanic or Latino,Unknown or Not Reported,31,2023_dataset,1119,0,0.500584795,0.371428571
+126,wP,Male,Not Hispanic or Latino,White,31,2023_dataset,1130,0,1.374269006,1.218045113
+127,aP,Female,Hispanic or Latino,More Than One Race,28,2023_dataset,1098,0,1.450292398,1.593984962
+128,wP,Female,Hispanic or Latino,White,30,2023_dataset,1141,0,0.824561404,0.781954887
+129,wP,Male,Not Hispanic or Latino,White,33,2023_dataset,966,0,0.988304094,0.932330827
+130,wP,Male,Not Hispanic or Latino,White,28,2023_dataset,1038,0,1.994152047,2.218045113
+131,aP,Female,Hispanic or Latino,White,26,2023_dataset,1163,0,1.847953216,1.744360902
+132,wP,Male,Not Hispanic or Latino,White,29,2023_dataset,1174,0,0.941520468,0.864661654
+133,aP,Female,Unknown,Unknown or Not Reported,27,2023_dataset,1184,0,1.467836257,1.631578947
+134,wP,Male,Not Hispanic or Latino,More Than One Race,34,2023_dataset,1195,0,0.953216374,0.962406015
+135,wP,Male,Hispanic or Latino,More Than One Race,29,2023_dataset,1152,0,2.005847953,1.872180451
+136,wP,Female,Not Hispanic or Latino,Asian,29,2023_dataset,1029,0,0.748538012,0.827067669
+137,aP,Female,Not Hispanic or Latino,White,26,2023_dataset,1206,0,0.964912281,1
+138,aP,Male,Hispanic or Latino,Unknown or Not Reported,24,2023_dataset,1227,0,1.251461988,1.22556391
+139,wP,Female,Not Hispanic or Latino,Asian,31,2023_dataset,977,0,1.134502924,1.090225564
+140,aP,Female,Not Hispanic or Latino,Asian,23,2023_dataset,1248,0,1.005847953,1.007518797
+143,aP,Female,Hispanic or Latino,More Than One Race,21,2023_dataset,1238,0,0.894736842,0.872180451
+144,aP,Female,Not Hispanic or Latino,White,25,2023_dataset,1279,0,0.771929825,0.789473684
+145,aP,Male,Not Hispanic or Latino,White,22,2023_dataset,1290,0,0.976608187,0.992481203
+146,wP,Male,Not Hispanic or Latino,Black or African American,32,2023_dataset,1300,0,0.912280702,0.969924812
+147,aP,Female,Hispanic or Latino,White,24,2023_dataset,1311,0,1.152046784,1.240601504
+148,wP,Male,Not Hispanic or Latino,Black or African American,36,2023_dataset,1067,0,1.401360544,1.422222222
+150,wP,Male,Hispanic or Latino,White,33,2023_dataset,1258,0,0.894736842,0.962406015
+152,wP,Female,Hispanic or Latino,More Than One Race,29,2023_dataset,1332,0,0.952380952,1.048888889
+154,aP,Female,Not Hispanic or Latino,Asian,27,2023_dataset,1352,0,1.169590643,1.180451128
+155,aP,Female,Not Hispanic or Latino,White,27,2023_dataset,1363,0,1.455782313,1.28
+157,aP,Female,Not Hispanic or Latino,White,27,2023_dataset,1385,0,1.80952381,1.902222222
+158,aP,Male,Not Hispanic or Latino,White,24,2023_dataset,1396,0,1.278911565,1.315555556
+159,wP,Female,Not Hispanic or Latino,Asian,30,2023_dataset,1407,0,0.93877551,0.862222222
+160,aP,Male,Not Hispanic or Latino,Black or African American,28,2023_dataset,1058,0,0.592517007,0.523555556
+161,aP,Female,Not Hispanic or Latino,More Than One Race,31,2023_dataset,1417,0,0.589115646,0.518222222
+162,aP,Female,Not Hispanic or Latino,White,25,2023_dataset,987,0,0.795918367,0.915555556
+163,wP,Female,Not Hispanic or Latino,White,31,2023_dataset,1437,0,1.333333333,1.368888889
+164,wP,Male,Not Hispanic or Latino,White,33,2023_dataset,1447,0,1.095238095,1.155555556
+165,wP,Female,Not Hispanic or Latino,White,31,2023_dataset,1427,0,0.891156463,0.850666667
+166,aP,Female,Not Hispanic or Latino,Asian,23,2023_dataset,1457,0,0.911564626,0.942222222
+167,aP,Male,Not Hispanic or Latino,White,27,2023_dataset,1467,0,1.06122449,1.146666667
+168,wP,Male,Not Hispanic or Latino,White,33,2023_dataset,1477,0,1.149659864,0.977777778
+169,aP,Male,Not Hispanic or Latino,Asian,21,2023_dataset,1487,0,1.353741497,1.262222222
+170,wP,Male,Not Hispanic or Latino,White,32,2023_dataset,943,0,1.421768707,1.546666667
+171,wP,Female,Not Hispanic or Latino,Asian,21,2023_dataset,1497,0,1.102040816,1.128888889
+172,wP,Male,Not Hispanic or Latino,White,38,2023_dataset,957,0,0.795918367,0.731555556
